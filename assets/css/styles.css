@@ -272,6 +272,8 @@ img {
 .home__description {
   margin-bottom: var(--mb-2-5);
   line-height: var(--text-line-height);
+  text-align: justify; /* Justify text */
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .home__price {
@@ -895,8 +897,8 @@ img {
 }
 
 .insta-grid > div{
-  padding: 2vh;
-    height: 400px;
+    padding: 2vh;
+    height: 200px;
     transition: var(--transition);
 }
 
