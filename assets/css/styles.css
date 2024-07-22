@@ -189,7 +189,7 @@ img {
   text-transform: uppercase;
   font-weight: var(--font-semi-bold);
   background: var(--text-gradient);
-  color: transparent;
+  color: gray;
   -webkit-background-clip: text;
   background-clip: text;
   transition: .4s;
@@ -273,7 +273,8 @@ img {
   margin-bottom: var(--mb-2-5);
   line-height: var(--text-line-height);
   text-align: justify; /* Justify text */
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:'Franklin Gothic Medium';
+  font-weight: bolder;
 }
 
 .home__price {
