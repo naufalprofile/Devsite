@@ -271,7 +271,6 @@ img {
 
 .home__description {
   font-size: var(--smaller-font-size);
-  text-align: justify;
 }
 
 .home__price {
