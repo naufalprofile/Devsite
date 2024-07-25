@@ -270,11 +270,8 @@ img {
 }
 
 .home__description {
-  margin-bottom: var(--mb-2-5);
-  line-height: var(--text-line-height);
-  text-align: justify; /* Justify text */
-  font-family:'Franklin Gothic Medium';
-  font-weight: bolder;
+  font-size: var(--smaller-font-size);
+  text-align: justify;
 }
 
 .home__price {
